@@ -1,0 +1,14 @@
+{
+  "name": "@sip/app-client",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@nocobase/client": "0.9.0-alpha.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocobase/nocobase.git",
+    "directory": "packages/app/client"
+  },
+  "gitHead": "b8f76ad38e60e677c5bb4aab0a4cdb28d98a0f49"
+}
